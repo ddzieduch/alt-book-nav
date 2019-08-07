@@ -1,0 +1,9 @@
+alt_book_nav:
+  version: 1.x
+  css:
+    theme:
+      css/alt_book_nav.css: {}
+  js:
+    js/alt_book_nav.js: {}
+  dependencies:
+    - core/jquery

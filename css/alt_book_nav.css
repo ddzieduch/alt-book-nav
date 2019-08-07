@@ -1,0 +1,11 @@
+.expanded > .au-link-list {
+  display: block;
+}
+
+.collapsed > .au-link-list {
+  display: none;
+}
+
+.active-trail > .au-link-list {
+  display: block;
+}

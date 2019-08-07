@@ -1,0 +1,6 @@
+<?php
+
+function alt_book_nav_page_attachments(array &$attachments)
+{
+    $attachments['#attached']['library'][] = 'alt_book_nav/alt_book_nav';
+}

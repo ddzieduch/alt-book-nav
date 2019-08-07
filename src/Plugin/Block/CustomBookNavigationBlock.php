@@ -1,4 +1,4 @@
-<?php 
+<?php
 namespace Drupal\alt_book_nav\Plugin\Block;
 use Drupal\book\Plugin\Block\BookNavigationBlock;
 
